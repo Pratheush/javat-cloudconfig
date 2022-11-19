@@ -17,3 +17,8 @@ microservice:
     endpoints:
       endpoint:
         uri: http://order-service/order/bookOrder/
+
+
+
+logging:
+  file: /home/pratheush/jlab/my_idea_projects/mymicroservice_javatechie/oms.log
